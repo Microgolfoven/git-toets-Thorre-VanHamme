@@ -8,6 +8,6 @@ OPDRACHT 3
 4. git status
 
 OPDRACHT 7
-a.
-b. 
-c. 
+a. omdat je eerst git pull moest doen
+b. git commit maakt dat het op je lokale repo staat en git push maakt dat het op de publieke repo staat
+c. Zodat het eerst nog kan gecontroleerd worden
